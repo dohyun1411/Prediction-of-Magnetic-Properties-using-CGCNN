@@ -14,8 +14,8 @@ To prepare material data, there are some additional requirements:
 ## How to train
 
 ### How to prepare data
-To prepare material data,
 First, you should get your own API from The Materials Project databse(https://materialsproject.org/). Then, please write it to the `your-api-key.txt`.
+To prepare material data,
 ```
 python prepare_data.py --input=mp-ids-46744.csv --output=id_prop.csv
 ```
