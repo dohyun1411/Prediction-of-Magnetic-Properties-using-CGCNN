@@ -32,3 +32,4 @@ To predict with our pre-trained model,
 ```
 python predict.py dataset_manipulated_pretrained/model_best.pth.tar data/sample-regression
 ```
+You will be able to see the prediction results at the generated file 'test_result.csv'
