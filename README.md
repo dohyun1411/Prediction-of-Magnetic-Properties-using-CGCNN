@@ -35,7 +35,7 @@ python predict.py dataset_manipulated_pretrained/model_best.pth.tar data/sample-
 You will be able to see the prediction results at the generated file 'test_result.csv'
 
 ## References
-
+```
 @article{PhysRevLett.120.145301,
   title = {Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties},
   author = {Xie, Tian and Grossman, Jeffrey C.},
@@ -50,4 +50,4 @@ You will be able to see the prediction results at the generated file 'test_resul
   doi = {10.1103/PhysRevLett.120.145301},
   url = {https://link.aps.org/doi/10.1103/PhysRevLett.120.145301}
 }
-
+```
